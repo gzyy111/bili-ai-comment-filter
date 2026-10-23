@@ -1,0 +1,2 @@
+# 本仓库只用 Python 标准库，无第三方依赖。
+# Python >= 3.9（Windows 下建议先 $env:PYTHONUTF8="1"）

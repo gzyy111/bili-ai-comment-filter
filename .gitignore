@@ -1,0 +1,10 @@
+cookies.json
+*.cookie
+.env
+out/
+logs/
+__pycache__/
+*.pyc
+*.db
+*.jsonl
+*.log

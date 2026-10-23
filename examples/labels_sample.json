@@ -1,0 +1,5 @@
+{
+  "note": "人工标注（赵阳阳侧由 agent 代读并标注，待本人复核）。index 从 1 开始，未列出的默认 human。",
+  "dsh-human": { "1": "bot", "6": "bot", "7": "bot" },
+  "normal-human": {}
+}
